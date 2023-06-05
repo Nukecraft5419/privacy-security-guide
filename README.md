@@ -1,1 +1,1 @@
-# privacy-security-guide
+# Practical Guide to Privacy and Security - For a future without loopholes
